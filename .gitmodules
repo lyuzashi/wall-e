@@ -1,0 +1,12 @@
+[submodule "utils/Arduino-Makefile"]
+	path = utils/Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile.git
+[submodule "utils/MiniCore"]
+	path = utils/MiniCore
+	url = https://github.com/MCUdude/MiniCore.git
+[submodule "libs/Ethernet"]
+	path = libs/Ethernet
+	url = https://github.com/arduino-libraries/Ethernet.git
+[submodule "libs/ArduinoMDNS"]
+	path = libs/ArduinoMDNS
+	url = https://github.com/arduino-libraries/ArduinoMDNS.git
